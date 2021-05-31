@@ -1,0 +1,12 @@
+C:\Users\evgek\source\repos\TBDkursach\TBDkursach\bin\Debug\avtosalon.mdf
+C:\Users\evgek\source\repos\TBDkursach\TBDkursach\bin\Debug\avtosalon_log.ldf
+C:\Users\evgek\source\repos\TBDkursach\TBDkursach\bin\Debug\TBDkursach.exe.config
+C:\Users\evgek\source\repos\TBDkursach\TBDkursach\bin\Debug\TBDkursach.exe
+C:\Users\evgek\source\repos\TBDkursach\TBDkursach\bin\Debug\TBDkursach.pdb
+C:\Users\evgek\source\repos\TBDkursach\TBDkursach\obj\Debug\TBDkursach.csprojAssemblyReference.cache
+C:\Users\evgek\source\repos\TBDkursach\TBDkursach\obj\Debug\TBDkursach.Form1.resources
+C:\Users\evgek\source\repos\TBDkursach\TBDkursach\obj\Debug\TBDkursach.Properties.Resources.resources
+C:\Users\evgek\source\repos\TBDkursach\TBDkursach\obj\Debug\TBDkursach.csproj.GenerateResource.cache
+C:\Users\evgek\source\repos\TBDkursach\TBDkursach\obj\Debug\TBDkursach.csproj.CoreCompileInputs.cache
+C:\Users\evgek\source\repos\TBDkursach\TBDkursach\obj\Debug\TBDkursach.exe
+C:\Users\evgek\source\repos\TBDkursach\TBDkursach\obj\Debug\TBDkursach.pdb
